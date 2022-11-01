@@ -3,6 +3,9 @@ import React from "react";
 const Experience = () => {
   return (
     <div className="py-[150px]" id="experience">
+         <p className="uppercase text-xl tracking-widest pb-11 text-[#8987af]">
+        Experience
+      </p>
       <div className="text-white max-w-[600px] m-auto">
         <div>
           <h1 className="text-2xl font-11thfont">

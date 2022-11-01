@@ -34,18 +34,18 @@ const Home = () => {
             </p>
           </p>
         </div>
-        <div className="pt-11 flex flex-row">
+        <div className="sm:w-[300px] pt-11 flex flex-row">
           <a
             target="/blank"
             href="https://www.linkedin.com/in/eshwar-tangirala-08973316b/"
           >
-            <FaLinkedin size={40} />
+            <FaLinkedin size={30} />
           </a>
 
-          <img className="rounded-full" src={avatar} width="300" />
+          <img className="rounded-full" src={avatar} width="230" />
 
           <a target="/blank" href="https://github.com/Eshwar1212-maker">
-            <FaGithub size={40} />
+            <FaGithub size={30} />
           </a>
         </div>
         <div className="pt-9 flex flex-col justify-center items-center">

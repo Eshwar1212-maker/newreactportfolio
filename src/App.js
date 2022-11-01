@@ -12,6 +12,7 @@ function App() {
     <div className="text-center">
       <Navbar />
       <Home />
+      <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br />
       <About />
       <Skills />
       <Projects />
