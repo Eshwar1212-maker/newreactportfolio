@@ -63,7 +63,6 @@ const Projects = () => {
               <a target="/blank" href="https://fsgvfsgsgbgffa.web.app/">
                 <button className="underline">Live</button>
               </a>
-              <button>Live</button>
             </div>
             <h1 className=" font-bold text-slate-400 text-xl font-13thfont">
               FamilyGram Social Media Application
@@ -96,13 +95,13 @@ const Projects = () => {
                 target="/blank"
                 href="https://peppy-youtiao-774dc2.netlify.app/"
               >
-                <button className="underline">Demo</button>
+                <button className="underline">Live</button>
               </a>
               <a
                 target="/blank"
                 href="https://github.com/Eshwar1212-maker/BreakingBad-API"
               >
-                <button className="underline">Code</button>
+                <button className="underline">Github</button>
               </a>
             </div>
             <h1 className=" font-bold text-slate-400 text-xl font-13thfont">
