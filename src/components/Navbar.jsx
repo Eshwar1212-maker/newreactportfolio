@@ -72,7 +72,7 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="transition duration-300 hover:bg-slate-400 p-1">
-              <Link to="Experience" smooth={true} duration={500}>
+              <Link to="experience" smooth={true} duration={500}>
                 Experience
               </Link>
             </li>
