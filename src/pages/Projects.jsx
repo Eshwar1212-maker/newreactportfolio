@@ -112,6 +112,7 @@ const Projects = () => {
               components! You can search any character in the very popular show
               Breaking Bad, and it will filter out all respective characters.
               Fully mobile responsive.
+              <br />
             </p>
           </div>
         </div>
