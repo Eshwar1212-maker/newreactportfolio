@@ -143,18 +143,14 @@ const Navbar = () => {
                     <p onClick={handleNav}>Experience</p>
                   </Link>
                 </li>
+                <li onClick={handleNav} className="py-8 text-md">
+                  <Link to="contact" smooth={true} duration={900}>
+                    <p onClick={handleNav}>Contact</p>
+                  </Link>
+                </li>
               </ul>
             </div>
-            <br />
-            <div className="flex justify-between">
-              <img className="rounded-full" src={avatar} width="140" />
-              <p className=" font-firstFont pt-11">
-                Sorry! Didnt see you there!
-              </p>
-            </div>
-            <br />
-            <br />
-            <div className="text-sm flex justify-center gap-2">
+            <div className="text-sm flex justify-center gap-2 mt-[-35px]">
               <a
                 target="/blank"
                 href="https://www.linkedin.com/in/eshwar-tangirala-08973316b/"
